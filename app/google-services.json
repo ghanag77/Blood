@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "881524034967",
+    "firebase_url": "https://lifeline-eb423.firebaseio.com",
+    "project_id": "lifeline-eb423",
+    "storage_bucket": "lifeline-eb423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881524034967:android:c0bcf7030372d848",
+        "android_client_info": {
+          "package_name": "com.example.ghana.lifeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881524034967-5n6js9dav3oov3047ijgek2ev46hbebq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpjalXLCmikbsL8VOCqjHuy_fj2wz7LD4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
